@@ -1,0 +1,921 @@
+.ak-link-carrusel-sec1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  height: 54vh;
+  min-height: 600px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: end;
+  -webkit-align-items: flex-end;
+  -ms-flex-align: end;
+  align-items: flex-end;
+  -webkit-box-ordinal-group: 1;
+  -webkit-order: 0;
+  -ms-flex-order: 0;
+  order: 0;
+  background-image: url('https://dev.koaj.co/img/external_libraries_loader/wf-homenew/images/AJUSTE_IMAGENES-INTERNAS-02-copy.jpeg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.ak-link-carrusel-sec1:hover {
+  background-color: rgba(0, 0, 0, 0.83);
+  background-image: url('https://dev.koaj.co/img/external_libraries_loader/wf-homenew/images/AJUSTE_IMAGENES-INTERNAS-02-copy.jpeg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.ak-link-carrusel-sec1.akimg3 {
+  background-image: url('https://dev.koaj.co/img/external_libraries_loader/wf-homenew/images/AJUSTE_IMAGENES-INTERNAS-01-copy.jpeg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.ak-link-carrusel-sec1.akimg3:hover {
+  background-image: url('https://dev.koaj.co/img/external_libraries_loader/wf-homenew/images/AJUSTE_IMAGENES-INTERNAS-01-copy.jpeg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.ak-heading-carrusel {
+  display: block;
+  width: auto;
+  margin-right: auto;
+  margin-bottom: 25px;
+  margin-left: auto;
+  padding: 5px;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  -ms-grid-row-align: center;
+  align-self: center;
+  -webkit-box-ordinal-group: 1;
+  -webkit-order: 0;
+  -ms-flex-order: 0;
+  order: 0;
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 auto;
+  -ms-flex: 0 auto;
+  flex: 0 auto;
+  background-color: #fff;
+  font-family: Poppins, sans-serif;
+  color: #000;
+  font-size: 33px;
+  line-height: 1;
+  text-align: center;
+}
+
+.ak-div-block-coneptos {
+  display: block;
+  width: auto;
+  padding-bottom: 56px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+}
+
+.ak-bot-negro {
+  display: block;
+  width: 200px;
+  margin-top: 13px;
+  margin-right: auto;
+  margin-left: auto;
+  border-style: none none solid;
+  border-width: 1px 1px 2px;
+  border-color: #000 #000 #000;
+  background-color: #000;
+  font-family: Poppins, sans-serif;
+  color: #fff;
+  font-weight: 700;
+  text-align: center;
+}
+
+.ak-bot-negro:hover {
+  border-style: none none solid;
+  border-width: 1px 1px 2px;
+  border-color: #fff;
+  background-color: #000;
+  color: #fff;
+}
+
+.ak-img-whatsapp {
+  display: block;
+  width: 60%;
+  max-width: 300px;
+  margin: auto;
+}
+
+.ak-div-form-optin {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  height: 18.6vh;
+  min-height: 200px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 20px 31px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #00cba6;
+}
+
+.ak-div-form-optin.ak-rojo {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  height: 34vh;
+  min-height: 383px;
+  margin: 20px auto;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #ff3351;
+}
+
+.ak-form-block-otpin {
+  width: 100%;
+}
+
+.ak-div-block-whatsapp {
+  width: 100%;
+  background-color: #00cba6;
+}
+
+.ak-img-regalo {
+  display: block;
+  width: 90%;
+  max-width: 300px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-bottom: 20px;
+}
+
+.ak-div-form {
+  min-height: 500px;
+}
+
+.ak-txt-whatsapp {
+  margin-top: 13px;
+  font-family: Poppins, sans-serif;
+  color: #000;
+  font-size: 15px;
+  line-height: 20px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.ak-txt-legales {
+  font-family: Poppins, sans-serif;
+  color: hsla(0, 0%, 100%, 0.86);
+  font-size: 11px;
+  line-height: 17px;
+  text-align: center;
+}
+
+.ak-link {
+  color: hsla(0, 0%, 100%, 0.86);
+}
+
+.ak-input-form-optin {
+  width: 200px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.ak-div-padre-ventajas {
+  width: 90%;
+  max-width: 1000px;
+  margin: 0px auto 50px;
+}
+
+.ak-div-ventajas {
+  width: 95%;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: #ebebeb;
+}
+
+.ak-icono-ventajas {
+  display: block;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.ak-txt-ventajas {
+  margin-top: 2px;
+  padding-right: 8px;
+  font-family: Poppins, sans-serif;
+  color: #272727;
+  font-weight: 600;
+}
+
+.ak-row-col-ventajas {
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+
+.ak-col-padre-ventajas {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.ak-div-form-optin-mobile {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 400px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #00cba6;
+}
+
+.ak-cols-mobile {
+  display: none;
+}
+
+.ak-img-tiendas {
+  width: 100%;
+}
+
+.ak-link-tiendas {
+  width: 100%;
+}
+
+.ak-col1-tiendas {
+  padding-right: 5px;
+  padding-left: 0px;
+}
+
+.ak-col2-tiendas {
+  padding-right: 0px;
+  padding-left: 5px;
+}
+
+.ak-titulo-tiendas {
+  position: static;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: auto;
+  font-family: Poppins, sans-serif;
+  color: #fff;
+  font-size: 125px;
+  text-align: center;
+}
+
+.ak-div-tiendas {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: auto;
+  display: block;
+  padding-top: 271px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.ak-bot-tiendas {
+  display: block;
+  width: 300px;
+  margin-top: 56px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #000;
+  font-family: Poppins, sans-serif;
+  text-align: center;
+}
+
+.ak-div-cielo {
+  height: 550px;
+  margin-top: 13px;
+  background-image: url('https://dev.koaj.co/img/external_libraries_loader/wf-homenew/images/sky-2.jpg');
+  background-position: 0px 0px;
+  background-size: auto;
+}
+
+.ak-div-azul-fondo {
+  height: 550px;
+  background-color: #c1eaff;
+}
+
+.ak-img-disney {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.ak-div-cols {
+  width: 600px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.ak-colsdisney {
+  margin-top: 17px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.ak-div-disney {
+  position: static;
+  margin-top: -997px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.ak-bot-licencia-carrusel {
+  display: block;
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: #000;
+  font-family: Poppins, sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.ak-card-header {
+  height: 600px;
+  background-image: url('https://dev.koaj.co/img/external_libraries_loader/wf-homenew/images/2021-03-10-DISNEY-RETRO22778-copy.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.ak-card-header.nasa {
+  background-image: url('https://dev.koaj.co/img/external_libraries_loader/wf-homenew/images/buzo-nasa-bordado-con-capota.jpeg');
+}
+
+.ak-card-header.vintage {
+  background-image: url('https://dev.koaj.co/img/external_libraries_loader/wf-homenew/images/IMAGENES-INTERNAS-02.jpg');
+}
+
+.ak-card-header.fep {
+  background-image: url('https://dev.koaj.co/img/external_libraries_loader/wf-homenew/images/camiseta-negra-texto-colores-corta.jpg');
+}
+
+.ak-contendor-carrusel-licencias {
+  width: 90%;
+  max-width: 1300px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.ak-licenciascarousel {
+  width: 100vw;
+  height: 400px;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: transparent;
+}
+
+.ak-licenciascarousel.aj-is_contained {
+  width: 100%;
+  height: auto;
+  margin-bottom: 42px;
+  padding-top: 34px;
+  padding-bottom: 66px;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+}
+
+.ak-card {
+  overflow: hidden;
+  width: 100%;
+  height: 1auto;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 0 3px 2rem 0 rgba(0, 0, 0, 0.14);
+  color: #b8b9c2;
+}
+
+.ak-arrow-left {
+  left: 0%;
+  top: auto;
+  right: auto;
+  bottom: 0%;
+  width: 50px;
+  height: 50px;
+}
+
+.ak-arrow-right {
+  left: auto;
+  top: auto;
+  right: 0%;
+  bottom: 0%;
+  width: 50px;
+  height: 50px;
+}
+
+.ak-card-body {
+  height: auto;
+  padding: 30px;
+}
+
+.ak-carousel-licencias._3 {
+  right: 0%;
+  padding-right: 35px;
+}
+
+.ak-carousel-mask-licencias {
+  overflow: visible;
+  width: 40%;
+}
+
+.ak-seccion-licencias {
+  overflow: hidden;
+  padding-top: 42px;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(snow), to(snow)), -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.34)), color-stop(43%, hsla(0, 0%, 100%, 0))), url('https://dev.koaj.co/img/external_libraries_loader/wf-homenew/images/IMAGENES-INTERNAS-01-copy.jpg');
+  background-image: linear-gradient(180deg, snow, snow), linear-gradient(180deg, rgba(0, 0, 0, 0.34), hsla(0, 0%, 100%, 0) 43%), url('https://dev.koaj.co/img/external_libraries_loader/wf-homenew/images/IMAGENES-INTERNAS-01-copy.jpg');
+  background-position: 0px 0px, 0px 0px, 50% 50%;
+  background-size: auto, auto, cover;
+  background-repeat: repeat, repeat, no-repeat;
+}
+
+.ak-titulo-licencias-img {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  padding-bottom: 10px;
+}
+
+.icon {
+  color: #000;
+}
+
+.icon-2 {
+  color: #000;
+}
+
+.ak-slide-nav {
+  color: #160909;
+}
+
+.ak-col-toma-producto {
+  padding-right: 10px !important;
+}
+
+.ak-txt-titulo-licencia {
+  padding-bottom: 23px;
+  font-family: Poppins, sans-serif;
+  color: #000;
+  font-size: 33px;
+  line-height: 35px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.ak-cont-col-tomas-producto-mobile {
+  display: none;
+}
+
+@media screen and (max-width: 991px) {
+  .ak-link-carrusel-sec1 {
+    height: 54.2vh;
+  }
+
+  .ak-link-carrusel-sec1.akimg3 {
+    height: 54.2vh;
+  }
+
+  .ak-heading-carrusel {
+    font-size: 22px;
+  }
+
+  .ak-bot-negro {
+    width: 100%;
+  }
+
+  .ak-bot-negro.ak-botform {
+    width: 90%;
+  }
+
+  .ak-bot-negro.botdisney {
+    width: 200px;
+  }
+
+  .ak-div-form-optin.ak-rojo {
+    padding-right: 14px;
+    padding-left: 14px;
+  }
+
+  .ak-div-form {
+    display: block;
+  }
+
+  .ak-txt-legales {
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .ak-input-form-optin {
+    width: 90%;
+  }
+
+  .ak-div-padre-ventajas {
+    width: 100%;
+    margin-top: 13px;
+    margin-bottom: 13px;
+  }
+
+  .ak-div-ventajas {
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .ak-txt-ventajas {
+    margin-top: 7px;
+    padding-right: 6px;
+    padding-left: 6px;
+    font-size: 11px;
+    line-height: 16px;
+  }
+
+  .ak-div-form-optin-mobile.rojo {
+    background-color: #ff3351;
+  }
+
+  .ak-cols-mobile {
+    display: none;
+    margin-bottom: 8px;
+  }
+
+  .ak-cols-optin-mobile {
+    padding-right: 5px;
+    padding-left: 5px;
+  }
+
+  .ak-col1-tiendas {
+    display: none;
+  }
+
+  .ak-col2-tiendas {
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+
+  .ak-div-tiendas {
+    padding-top: 329px;
+  }
+
+  .ak-div-cielo {
+    padding-left: 5px;
+  }
+
+  .ak-bot-licencia-carrusel {
+    margin-top: 14px;
+  }
+
+  .ak-card-header {
+    height: 300px;
+  }
+
+  .ak-txt-titulo-licencia {
+    font-size: 26px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .ak-bot-negro {
+    width: 120px;
+  }
+
+  .ak-txt-legales {
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .ak-div-block-form-optin {
+    width: 101%;
+  }
+
+  .ak-txt-ventajas {
+    margin-top: 5px;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: left;
+  }
+
+  .ak-raw-2col-ventajas {
+    margin-top: 8px;
+  }
+
+  .ak-div-form-optin-mobile {
+    height: auto;
+    padding-top: 17px;
+    padding-bottom: 17px;
+  }
+
+  .ak-div-form-optin-mobile.rojo {
+    padding-top: 32px;
+    padding-bottom: 32px;
+  }
+
+  .ak-cols-mobile {
+    display: block;
+    margin-bottom: 13px;
+  }
+
+  .ak-cols-optin-mobile {
+    margin-bottom: 13px;
+    padding-right: 7px;
+    padding-left: 7px;
+  }
+
+  .ak-col2-tiendas {
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+
+  .ak-titulo-tiendas {
+    font-size: 101px;
+    line-height: 37px;
+  }
+
+  .ak-div-tiendas {
+    padding-top: 194px;
+  }
+
+  .ak-div-cielo {
+    height: 400px;
+  }
+
+  .ak-div-azul-fondo {
+    height: 400px;
+  }
+
+  .ak-img-disney {
+    width: 70%;
+  }
+
+  .ak-div-cols {
+    width: 100%;
+  }
+
+  .ak-div-disney {
+    margin-top: -752px;
+  }
+
+  .ak-carousel-licencias._3 {
+    right: -18%;
+  }
+
+  .ak-carousel-mask-licencias {
+    width: 60%;
+  }
+
+  .ak-cont-col-toma-producto {
+    display: none;
+  }
+
+  .ak-cont-col-tomas-producto-mobile {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .ak-link-carrusel-sec1 {
+    height: 40vh;
+    min-height: auto;
+  }
+
+  .ak-link-carrusel-sec1.akimg3 {
+    height: 40vh;
+  }
+
+  .ak-heading-carrusel {
+    font-size: 20px;
+  }
+
+  .ak-div-block-coneptos {
+    display: block;
+    -webkit-align-self: auto;
+    -ms-flex-item-align: auto;
+    -ms-grid-row-align: auto;
+    align-self: auto;
+  }
+
+  .ak-bot-negro {
+    display: block;
+    width: 120px;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 15px;
+  }
+
+  .ak-img-regalo {
+    width: 80%;
+  }
+
+  .ak-txt-ventajas {
+    margin-top: 7px;
+    text-align: center;
+  }
+
+  .ak-col-padre-ventajas {
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+
+  .ak-raw-2col-ventajas {
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+
+  .ak-row-cols-ventajas {
+    padding-right: 3px;
+    padding-left: 3px;
+  }
+
+  .ak-titulo-tiendas {
+    font-size: 62px;
+  }
+
+  .ak-div-tiendas {
+    padding-top: 95px;
+  }
+
+  .ak-bot-tiendas {
+    width: 80%;
+    margin-top: 22px;
+  }
+
+  .ak-div-cielo {
+    height: 350px;
+  }
+
+  .ak-div-azul-fondo {
+    height: 350px;
+  }
+
+  .ak-div-disney {
+    margin-top: -623px;
+  }
+
+  .ak-card-header {
+    height: 200px;
+  }
+
+  .ak-card-body {
+    padding: 20px;
+  }
+
+  .ak-carousel-licencias {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+  .ak-carousel-licencias._3 {
+    right: 0%;
+    padding-right: 0px;
+  }
+
+  .ak-carousel-mask-licencias {
+    width: 100%;
+  }
+
+  .ak-titulo-licencias-img {
+    width: 80%;
+    padding-bottom: 0px;
+  }
+}
+
+@media (min-width: 576px) { 
+  .swiper-container {
+      width: 100%;
+      height: 100%;
+    }
+
+    .swiper-slide {
+      text-align: center;
+      font-size: 18px;
+      background: #fff;
+
+      /* Center slide text vertically */
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-pack: center;
+      -ms-flex-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+      -webkit-box-align: center;
+      -ms-flex-align: center;
+      -webkit-align-items: center;
+      align-items: center;
+ }
+
+@media (min-width: 768px) { 
+  .swiper-container {
+      width: 100%;
+      height: 100%;
+    }
+
+    .swiper-slide {
+      text-align: center;
+      font-size: 18px;
+      background: #fff;
+
+      /* Center slide text vertically */
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-pack: center;
+      -ms-flex-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+      -webkit-box-align: center;
+      -ms-flex-align: center;
+      -webkit-align-items: center;
+      align-items: center;
+ }
+
+@media (min-width: 992px) { 
+  .swiper-container {
+        width: 100%;
+        height: 100%;
+      }
+
+      .swiper-slide {
+        text-align: center;
+        font-size: 18px;
+        background: #fff;
+
+        /* Center slide text vertically */
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        -webkit-justify-content: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        -webkit-align-items: center;
+        align-items: center;
+      }
+
+      .swiper-slide img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+ }
+
+ .w-col {
+  padding-right: 10px !important;
+}
